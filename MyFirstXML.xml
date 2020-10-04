@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<employees>
+     <employee>
+          <name>Connie Cobol</name>
+          <idnumber>098401</idnumber>
+          <wage>10.60</wage>
+          <hours>51.0</hours>
+          <overtime>11.0</overtime>
+					<doubletime>8.0</doubletime>
+					<frequencyofpay>biweekly</frequencyofpay>
+					<status>married joint</status>
+					<taxexempt>no</taxexempt>
+					<allowances>1</allowances>
+					<reimbursement>0</reimbursement>
+          <gross>598.90</gross>
+     </employee>
+		 <employee>
+          <name>Mary Apl</name>
+          <idnumber>526488</idnumber>
+          <wage>9.75</wage>
+          <hours>42.5</hours>
+          <overtime>2.5</overtime>
+					<doubletime>15.0</doubletime>
+					<frequencyofpay>biweekly</frequencyofpay>
+					<status>single</status>
+					<taxexempt>no</taxexempt>
+					<allowances>1</allowances>
+					<reimbursement>0</reimbursement>
+          <gross>426.56</gross>
+     </employee>
+     <employee>
+          <name>Frank Fortran</name>
+          <idnumber>765349</idnumber>
+          <wage>10.50</wage>
+          <hours>37.0</hours>
+          <overtime>0.0</overtime>
+					<doubletime>2.0</doubletime>
+					<frequencyofpay>biweekly</frequencyofpay>
+					<status>married joint</status>
+					<taxexempt>no</taxexempt>
+					<allowances>1</allowances>
+					<reimbursement>0</reimbursement>
+          <gross>388.50</gross>
+     </employee>
+     <employee>
+          <name>Jeff Ada</name>
+          <idnumber>034645</idnumber>
+          <wage>12.25</wage>
+          <hours>45.0</hours>
+          <overtime>5.0</overtime>
+					<doubletime>7.0</doubletime>
+					<frequencyofpay>weekly</frequencyofpay>
+					<status>single</status>
+					<taxexempt>no</taxexempt>
+					<allowances>0</allowances>
+					<reimbursement>0</reimbursement>
+          <gross>581.8</gross>
+     </employee>
+     <employee>
+          <name>Anton Pascal</name>
+          <idnumber>127615</idnumber>
+          <wage>8.35</wage>
+          <hours>0.0</hours>
+          <overtime>0.0</overtime>
+					<doubletime>0.0</doubletime>
+					<frequencyofpay>biweekly</frequencyofpay>
+					<status>single</status>
+					<taxexempt>no</taxexempt>
+					<allowances>0</allowances>
+					<reimbursement>0</reimbursement>
+          <gross>0.00</gross>
+     </employee>
+</employees>
